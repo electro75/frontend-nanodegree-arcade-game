@@ -3,18 +3,24 @@
 
 ## Introduction
 
-This a clone of the classinc arcade game frogger, developed as a part of the Front-End Nanodegree program by Udacity.
+This a clone of the classinc arcade game frogger, developed as a part of the Front-End 
+Nanodegree program by Udacity.
 
 
 ## Instructions
 
-The player has to cross the road successfully without colliding with the oncoming bugs. Use the arrow keys to navigate the player through the canvas without hitting the horizontally moving bugs. We **do not** like the bugs.
+The player has to cross the road successfully without colliding with the oncoming bugs. 
+Use the arrow keys to navigate the player through the canvas without hitting the horizontally 
+moving bugs. 
+We **do not** like bugs.
 
   ### GameRules:
-     * A _successful_ move is made when the player crosses over to the water *without* hitting any of the bugs. If the player does manage to make a successful cross the player _scores_ a point.
+     * A _successful_ move is made when the player crosses over to the water *without* hitting 
+     any of the bugs. If the player does manage to make a successful cross the player _scores_ a point.
      * 5 points and the player wins the game.
      * Collision with the bugs will cause the player to start over at the initial position.
-     * The player will also start at the initial position after making a successful move, to start his/her next move.
+     * The player will also start at the initial position after making a successful move, to start
+     his/her next move.
      * Collision with a bug will cause the player to lose a point. That's right, _negative marking_.
      
   ### Player Instructions:
@@ -43,9 +49,9 @@ The player has to cross the road successfully without colliding with the oncomin
         
    #### Resources.js
       * This is simply an image loading utility. It eases the process of loading
-        image files so that they can be used within your game. It also includes
-        a simple "caching" layer so it will reuse cached images if you attempt
-        to load the same image multiple times.
+        image files so that they can be used within the game. It also includes
+        a simple "caching" layer so it will reuse cached images they are loaded 
+        multiple times.
           
     
  # Enjoy!
