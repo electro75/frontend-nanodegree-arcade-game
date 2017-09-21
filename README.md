@@ -41,11 +41,11 @@ The player has to cross the road successfully without colliding with the oncomin
       * This engine makes the canvas' context (ctx) object globally available to make 
         writing app.js a little simpler to work with.
         
-    #### Resources.js
-       * This is simply an image loading utility. It eases the process of loading
-          image files so that they can be used within your game. It also includes
-          a simple "caching" layer so it will reuse cached images if you attempt
-          to load the same image multiple times.
+   #### Resources.js
+      * This is simply an image loading utility. It eases the process of loading
+        image files so that they can be used within your game. It also includes
+        a simple "caching" layer so it will reuse cached images if you attempt
+        to load the same image multiple times.
           
     
  # Enjoy!
