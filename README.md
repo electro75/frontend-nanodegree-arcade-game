@@ -28,8 +28,8 @@ We **do not** like bugs.
 *    Have Fun.
   
   ### Project Instructions:
-*     To run the, download or clone [this repository](https://github.com/electro75/frontend-nanodegree-arcade-game).
-*     Run the index.html file in your browser.
+*    To run the, download or clone [this repository](https://github.com/electro75/frontend-nanodegree-arcade-game).
+*    Run the index.html file in your browser.
 
 
 ## Technical Specifications:
