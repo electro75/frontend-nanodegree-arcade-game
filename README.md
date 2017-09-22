@@ -22,12 +22,15 @@ We **do not** like bugs.
      The player will also start at the initial position after making a successful move, to start
      his/her next move.
 *    Collision with a bug will cause the player to lose a point. That's right, _negative marking_.
-     
-     
+          
   ### Player Instructions:
 *    Use the arrow keys to move the player avatar around the canvas.
 *    Have Fun.
-     
+  
+  ### Project Instructions:
+*     To run the, download or clone [this repository](https://github.com/electro75/frontend-nanodegree-arcade-game).
+*     Run the index.html file in your browser.
+
 
 ## Technical Specifications:
 
